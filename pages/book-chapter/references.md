@@ -1,0 +1,22 @@
+# References
+
+- [Blake et al., 2015] Blake, T., Nosko, C., & Tadelis, S. (2015). Consumer heterogeneity and paid search effectiveness: A large-scale field experiment. Econometrica, 83(1), 155–174.
+- [By Udo Kopka & Patrick Simon, 2020] By Udo Kopka, Eldon Little, J. M. R. S. & Patrick Simon, M. . C. (2020). What got us here won’t get us there: A new model for the consumer goods industry.
+- [Driggs & Larry Levin, 2020] Driggs, J. & Larry Levin, I. (2020). INNO- VATION BEFORE THE “NEW NORMAL”.
+- [George & Lin, 2017] George, G. & Lin, Y. (2017). Analytics, innovation, and organizational adaptation. Innovation, 19(1), 16–22, https://doi. org/10.1080/14479338.2016.1252042.
+- [Joulin et al., 2016] Joulin, A., Grave, E., Bojanowski, P., & Mikolov, T. (2016). Bag of tricks for efficient text classification. arXiv preprint arXiv:1607.01759.
+- [Kim et al., 2019] Kim, K.-M., et al. (2019). Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation. arXiv preprint arXiv:1908.02569.
+- [Kottak, 1990] Kottak, C. P. (1990). Culture and” Economic Development”. American Anthropologist, 92(3), 723–731.
+- [Kristin Behrmann, 2019] Kristin Behrmann, N. (2019). BURSTING WITH NEW PRODUCTS, THERE’S NEVER BEEN A BETTER TIME FOR BREAKTHROUGH INNOVATION.
+- [Lake et al., 2017] Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Ger- shman, S. J. (2017). Building machines that learn and think like people. Behavioral and brain sciences, 40.
+- [Lamsdell & Braddy, 2010] Lamsdell, J. C. & Braddy, S. J. (2010). Cope’s Rule and Romer’s theory: patterns of diversity and gigantism in eu- rypterids and Palaeozoic vertebrates. Biology Letters, 6(2), 265–269.
+- [Leskovec et al., 2020] Leskovec, J., Rajaraman, A., & Ullman, J. D. (2020). Mining of massive data sets. Cambridge university press.
+- [Metonymize, 2021] Metonymize (2021). Metonymize marketing.
+- [Moe & Schweidel, 2012] Moe, W. W. & Schweidel, D. A. (2012). Online product opinions: Incidence, evaluation, and evolution. Marketing Sci- ence, 31(3), 372–386.
+- [Pearl, 2018] Pearl, J. (2018). Theoretical impediments to machine learn- ing with seven sparks from the causal revolution. arXiv preprint arXiv:1801.04016.
+- [Pearl, 2019] Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54– 60.
+- [Rajshekhar et al., 2017] Rajshekhar, K., Zadrozny, W., & Garapati, S. S. (2017). Analytics of Patent Case Rulings: Empirical Evaluation of Models for Legal Relevance. In Proceedings of the 16th International Conference on Artificial Intelligence and Law (ICAIL 2017), London, UK.
+- [Services, Nov 11 2020] Services, H. B. R. A. (Nov 11, 2020). Delivering Customer-Focused Innovation.
+- [Shalaby et al., 2016] Shalaby, W., Rajshekhar, K., & Zadrozny, W. (2016). A visual semantic framework for innovation analytics. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 30.
+- [Shalaby & Zadrozny, 2016] Shalaby, W. & Zadrozny, W. (2016). Innova- tion analytics using mined semantic analysis. In The Twenty-Ninth In- ternational Flairs Conference.
+- [Simon, 2019] Simon, H. A. (2019). The sciences of the artificial. MIT press.
