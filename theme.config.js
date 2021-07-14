@@ -3,9 +3,9 @@ export default {
   titleSuffix: ' – InnovationAnalytics',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Innovation Analytics</span>
+     <span className="mr-2 font-extrabold hidden md:inline">Product360</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        At scale using Web, eCommerce, Patents, etc.
+        Product innovation and marketing, at Web Scale
       </span>
     </>
   ),
