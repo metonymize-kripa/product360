@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/metonymize-kripa/product360',
-  titleSuffix: ' – InnovationAnalytics',
+  titleSuffix: ' – Product360',
   logo: (
     <>
      <span className="mr-2 font-extrabold hidden md:inline">Product360</span>
