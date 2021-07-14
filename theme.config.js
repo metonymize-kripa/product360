@@ -1,5 +1,5 @@
 export default {
-  repository: 'https://github.com/metonymize-kripa/innovation-analytics-docs',
+  repository: 'https://github.com/metonymize-kripa/product360',
   titleSuffix: ' – InnovationAnalytics',
   logo: (
     <>
